@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+#bruhnugget-nice:hover ~ #create {
+    background-color: crimson;
+}
+.border{
+    border: 15px royalblue inset;
+    border-radius: 30px;
+}
